@@ -1,0 +1,1 @@
+digital clock is a web application. It is is used to print time and date digitaly.
